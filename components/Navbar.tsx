@@ -12,7 +12,7 @@ export default function Navbar() {
         </Link>
 
         <nav className="flex items-center gap-6 text-sm font-medium text-gray-600">
-          <Link href="/" className="transition hover:text-gray-900">
+          <Link href="/about" className="transition hover:text-gray-900">
             About
           </Link>
           <Link href="/projects" className="transition hover:text-gray-900">

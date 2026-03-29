@@ -1,9 +1,7 @@
-import Navbar from "../../components/Navbar";
-
 export default function ContactPage() {
   return (
     <main className="min-h-screen bg-white text-gray-900">
-      <Navbar />
+     
 
       <section className="mx-auto max-w-4xl px-6 py-16">
         <h1 className="mb-8 text-4xl font-bold">Contact</h1>

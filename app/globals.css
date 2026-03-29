@@ -28,3 +28,26 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.tag-blue {
+  background: #dbeafe;
+  color: #1d4ed8;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.tag-green {
+  background: #dcfce7;
+  color: #166534;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.tag-purple {
+  background: #f3e8ff;
+  color: #6b21a8;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 12px;
+}
